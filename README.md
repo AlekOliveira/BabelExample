@@ -7,7 +7,7 @@ Babel is a transpiler (translates code in one language to another computer langu
 # Next step
 ### Install the dependencies (your terminal must be oppened into project root folder).
 
-Dependencies to be installed using command -> yarn add 'dependency'
-@babel/preset-env
-@babel/cli
-@babel/core
+#### Dependencies to be installed using command  **yarn add 'dependency'**
+* @babel/preset-env
+* @babel/cli
+* @babel/core
