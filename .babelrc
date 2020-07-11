@@ -1,0 +1,12 @@
+{
+  "presets": ["@babel/preset-env"]
+}
+
+/*
+First of all, you will need Yarn installed in you computer
+Dependencies to be installed using yarn add 'dependency'
+
+@babel/preset-env
+@babel/cli
+@babel/core
+*/
