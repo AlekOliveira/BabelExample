@@ -5,4 +5,4 @@ O Babel é um transcompilador JavaScript de código aberto e gratuito usado prin
 ### Instale as dependências (O seu terminal deve estar aberto na pasta raíz do projeto). 
 - Você pode instalar as dependências através do comando **npm install** ou utilizando o [Yarn](https://yarnpkg.com).
 
-### Caso opte em utilizar o yarn, as dependências devem ser instaladas através do comando **npm install** 
+-Caso opte em utilizar o yarn, as dependências devem ser instaladas através do comando **npm install** 
